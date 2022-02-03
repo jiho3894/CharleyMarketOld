@@ -121,7 +121,7 @@ const Home: NextPage = () => {
       <div className="rounded-2xl bg-white p-10 shadow-xl">
         <input
           type="file"
-          className="file:border file:bg-red-400 file:hover:cursor-pointer file:hover:bg-red-600"
+          className="file:border rounded-2xl file:bg-red-400 file:hover:cursor-pointer file:hover:bg-red-600"
         />
         <p className="first-letter:text-3xl first-letter:hover:text-blue-500">hello</p>
         <details className="">
